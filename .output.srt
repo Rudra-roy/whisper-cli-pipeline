@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:13,599
+I see from EMS 2 on one.
+
+2
+00:00:13,599 --> 00:00:21,199
+I see, repeat your message.
+
+3
+00:00:21,199 --> 00:00:24,000
+Yeah, this is the EMS 2.
+
+4
+00:00:24,000 --> 00:00:28,000
+I took over staging, what you have is rescue 3 and a vacuum truck in staging.
+
+5
+00:00:28,000 --> 00:00:37,000
+We're back on scene. We're also going to have engine 29 and truck 94 responding as well. They should meet up with you in staging.
+
+6
+00:00:37,000 --> 00:00:46,000
+Roger, is it 29 and did you say truck 94 or engine 94?
+
+7
+00:00:46,000 --> 00:00:51,000
+I'll be truck 94, engine 29, just let me know when they get on safe.
+
+8
+00:00:51,000 --> 00:00:54,000
+Roger.
+
+9
+00:01:01,000 --> 00:01:07,000
+RISK-35 is on the step r 11 to a 6, 345 south new hamster.
+
+10
+00:01:07,000 --> 00:01:14,000
+From rescue you take 4 of ill-warr first and if there's a call we can take it.
+
+11
+00:01:14,000 --> 00:01:27,000
+Metro RISK 2829, where, update your steps.
+
+12
+00:01:27,000 --> 00:01:47,000
+5. over to 6350 Mellella.
+
+13
+00:01:47,000 --> 00:01:51,000
+Press B-A-O-6, press the red.
+
+14
+00:01:51,000 --> 00:01:54,000
+Press Q-835, your cancels, mix till failed.
+
